@@ -1,2 +1,2 @@
 # Nice Store
-#Introduction
+Introduction
