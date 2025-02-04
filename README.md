@@ -13,4 +13,4 @@ The Dashboard Project is poised to address key business objectives through metic
 - Average Rating of each Item
 - Sales of each Item
   # Dashboard
-  
+  <img src='Nice Store.png'> 
