@@ -5,11 +5,11 @@ In the realm of fierce market competition and evolving consumer demands, the Nic
 The Dashboard Project is poised to address key business objectives through meticulous analysis and visualization of the dataset:
 - Total Sales Till Date
 - Total Outlets Established
-- Avg Rating of Items
+- Average Rating of all Items
 - Total Unique Products
 - Sales by Fat Content
 - Sales by Year
-- Sales by Outelet Location and Type
+- Sales by Outlet Location and Type
 - Average Rating of each Item
 - Sales of each Item
   # Dashboard
